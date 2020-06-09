@@ -25,7 +25,8 @@
 [`^ kembali ke atas ^`](#)
 
 Sketsa berikut dapat digunakan sebagai acuan untuk menyusun rangkaian sistem. 
-![](https://github.com/ddhira123/AutoRoomLight/blob/master/PSTR lampu oto_bb.png)
+![](https://github.com/ddhira123/AutoRoomLight/blob/master/img/PSTR lampu oto_bb.png)
+
 Perlu diperhatikan:
 
 - untuk menghubungkan lampu/fitting dengan relay dan steker, digunakan **kabel listrik**,
