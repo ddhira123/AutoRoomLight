@@ -25,7 +25,7 @@
 [`^ kembali ke atas ^`](#)
 
 Sketsa berikut dapat digunakan sebagai acuan untuk menyusun rangkaian sistem. 
-
+![](PSTR lampu oto_bb.png)
 Perlu diperhatikan:
 
 - untuk menghubungkan lampu/fitting dengan relay dan steker, digunakan **kabel listrik**,
