@@ -9,7 +9,11 @@
 **AutoRoomLight** merupakan sebuah sistem pencahayaan ruangan cerdas yang pembuatannya didasari oleh efisiensi energi, khususnya energi listrik. Dengan **AutoRoomLight**, manusia tidak lagi perlu untuk repot-repot menyalakan/mematikan lampu secara manual. Dengan biaya pembuatan yang murah dan perancangan yang mudah, Anda pun dapat membuat sendiri sistem ini dengan mengikuti langkah-langkah pada dokumentasi ini ataupun melalui video di bawah ini.
 
 <figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/p6YnOU1SQNY" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://www.youtube.com/embed/enMumwvLAug" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/enMumwvLAug" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
 # Alat dan Bahan
